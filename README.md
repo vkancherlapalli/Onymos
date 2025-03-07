@@ -1,4 +1,4 @@
-1. Run the notebook Vani Kancherlapalli - Onymos-Coding question
+1. Run the notebook Vani Kancherlapalli - Onymos-Coding question.ipynb
 2. Program flow:
   1. Call the addOrder function to simulate xx number of records
   2. In the matchOrder:
